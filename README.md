@@ -29,15 +29,12 @@ Covers CVE discoveries, exploitation demos, and lessons learned from vendor anal
 
 ---
 
-##  Devices & CVEs
+##  Devices 
 
 **Tuoshi (Dionlink):** NR500-EA, LT15D, LT21B
 
-* CVEs: `2025-43989`, `2025-43982`, `2024-53931`
+**Kuwfi:** GC111, AC900, CPF908, 5G01-X55
 
-**Kuwfi:** GC111, AC900, CPF908
-
-* CVEs: `2025-43984/86`, `2024-53945/46`
 
 
 
