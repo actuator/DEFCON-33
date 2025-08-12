@@ -1,7 +1,9 @@
 
 ##  Overview
 
-Materials and references for my DEF CON 33 talk on exploiting vulnerabilities in **Tuoshi** and **Kuwfi** 4G/5G routers.
+<img alt="image" src="https://github.com/user-attachments/assets/fd6899d8-9b7e-4954-a2dd-558e1be77a40" />
+
+Materials and references for my DEF CON 33 talk on exploiting vulnerabilities in **Tuoshi** and **Kuwfi** 5G & LTE Routers.
 
 Covers CVE discoveries, exploitation demos, and lessons learned from vendor analysis.
 
